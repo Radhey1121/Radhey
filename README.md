@@ -33,4 +33,4 @@ using terminal type-npx cypress open
  3. Run "npm install"
  4. Run "npx cypress open"
  5. cypress will be opened
- 6. Run SmokeTestcases
+ 6. Run Testcases
