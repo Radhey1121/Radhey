@@ -1,5 +1,5 @@
 
-Cypress installation and setup
+#Cypress installation and setup
 System Requirements
 Operating System
 Cypress is a desktop application that is installed on your computer. The desktop application supports these operating systems
